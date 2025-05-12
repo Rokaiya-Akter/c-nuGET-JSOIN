@@ -1,0 +1,16 @@
+﻿[
+    {
+        "Type": "Admin",
+        "Name": "John Doe",
+        "Age": 30,
+        "City": "New York",
+        "AdminRole": "System Administrator"
+    },
+    {
+        "Type": "Regular",
+        "Name": "Jane Smith",
+        "Age": 25,
+        "City": "Los Angeles",
+        "SubscriptionType": "Premium"
+    }
+]
